@@ -81,7 +81,7 @@ The system automatically flags anomalies based on statistical thresholds:
 ---
 
 ## 📸 Screenshots
-*(Add screenshots from your Lovable dashboard here showing the "Creative Blue GUI" and data tables)*
+*(Creative Blue GUI)*
 
 ---
 
