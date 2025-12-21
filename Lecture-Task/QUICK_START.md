@@ -80,9 +80,4 @@ The system automatically flags anomalies based on statistical thresholds:
 
 ---
 
-## 📸 Screenshots
-*(GUI.png)*
-
----
-
 *Designed & Implemented by **Abdelrahman Gadallah** - December 2024*
