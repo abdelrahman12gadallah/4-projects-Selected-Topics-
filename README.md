@@ -9,7 +9,7 @@
 **Comprehensive data-driven portfolio showcasing end-to-end capabilities:**  
 *From serverless ETL pipelines to interactive BI dashboards*
 
-**Author:** [Abdallah-Atta](https://github.com/Abdallah-Atta)  
+**Author:** [ِAbdelrahman Gadallah](https://github.com/abdelrahman12gadallah)  
 **Focus:** Data Engineering • Business Intelligence • Advanced Analytics
 
 [📂 View Projects](#-featured-projects) • [🛠️ Skills](#️-technical-skills) • [📊 Impact](#-project-impact)
